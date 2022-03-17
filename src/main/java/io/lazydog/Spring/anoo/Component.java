@@ -1,4 +1,4 @@
-package io.lazydog.Spring;
+package io.lazydog.Spring.anoo;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
